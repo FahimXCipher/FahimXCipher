@@ -1,12 +1,12 @@
 
 ## Hi, I'm Fahim Muntasir  
 
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/FahimXCIpher)  
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FahimXCIpher)  
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/FahimXCIpher)  
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/fahimxcipher)  
-[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="3.5%"/>](https://github.com/FahimXCIpher)  
-<a href="mailto:fahimciphers@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>  
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/FahimXCIpher)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/FahimXCIpher)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/FahimXCIpher)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/fahimxcipher)
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="3.5%"/>](https://github.com/FahimXCIpher)
+<a href="mailto:fahimciphers@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
 
 I'm a **Cyber Security Enthusiast, Ethical Hacker, and Digital Marketer.** I specialize in **WordPress Website Design, CPA Marketing, and Ethical Hacking (Android-focused).** Passionate about automation, penetration testing, and email scraping.  
 
